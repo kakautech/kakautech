@@ -2,7 +2,7 @@
 - 👀 we are masters in multiagents ai systems
 - 🌱 we currently learning how avoid common MAS challenges and to scale MAS in production
 - 💞️ I’m looking to collaborate on building AI SQUADs that solve real problems for companies
-- 📫 How to reach me: ai.kakautech.com 
+- 📫 How to reach us: ai.kakautech.com 
 - 😄 Pronouns: us
 
 
