@@ -1,7 +1,7 @@
 - 👋 Hi, we are @kakautech
 - 👀 we are masters in multiagents ai systems
 - 🌱 we currently learning how avoid common MAS challenges and to scale MAS in production
-- 💞️ I’m looking to collaborate on building AI SQUADs that solve real problems for companies
+- 💞️ we are looking to collaborate on building AI SQUADs that solve real problems for companies
 - 📫 How to reach us: ai.kakautech.com 
 - 😄 Pronouns: us
 
